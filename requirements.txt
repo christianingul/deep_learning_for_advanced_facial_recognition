@@ -1,0 +1,9 @@
+labelme 
+tensorflow 
+opencv-python 
+matplotlib 
+albumentations 
+pandas 
+Pillow 
+requests 
+pydot
